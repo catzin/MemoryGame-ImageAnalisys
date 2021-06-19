@@ -14,8 +14,8 @@ _Run: fats2parte_ 🚀
 
 
 # Capturas de la App 📢
-![image]('./c1.png')
-![image]('./c2.png')
+![image]('c1.png')
+![image]('c2.png')
 
 
 ## Autores 🤓
